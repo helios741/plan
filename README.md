@@ -4,5 +4,4 @@
 
 [语义化版本](https://semver.org/lang/zh-CN/)
 
-颠三倒四的
-当时的
+[关于package-lock.json的一切](https://codertx.github.io/2018/01/09/about-package-json/)
