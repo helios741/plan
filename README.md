@@ -8,5 +8,4 @@
 
 [npm 模块安装机制简介](http://www.ruanyifeng.com/blog/2016/01/npm-install.html)
 
-
-地方
+当时的
