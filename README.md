@@ -16,4 +16,3 @@
 [Annotated ECMAScript 5.1](http://es5.github.io/)
 
 
-颠三倒四的但是
