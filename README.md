@@ -16,4 +16,6 @@
 [Annotated ECMAScript 5.1](http://es5.github.io/)
 
 
-都是法国人说 都无法
+[cssnano](https://cssnano.co/)
+
+[es6-in-depth](https://hacks.mozilla.org/category/es6-in-depth/)
