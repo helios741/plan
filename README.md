@@ -25,3 +25,8 @@
 
  ## 未读
  [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
+
+
+## 问题
+
+[how-do-i-install-a-previous-version-of-chrome](https://superuser.com/questions/936432/how-do-i-install-a-previous-version-of-chrome)
