@@ -22,9 +22,14 @@
 
 [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
+[迭代器和生成器](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+
 
  ## 未读
  [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
+ 
+ [基于类 vs 基于原型的语言](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)
+ 
 
 
 ## 问题
