@@ -24,6 +24,8 @@
 
 [迭代器和生成器](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Iterators_and_Generators)
 
+[jsdoc](https://github.com/jsdoc3/jsdoc)
+
 
  ## 未读
  [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
@@ -36,6 +38,3 @@
 
 [how-do-i-install-a-previous-version-of-chrome](https://superuser.com/questions/936432/how-do-i-install-a-previous-version-of-chrome)
 
-
-颠三倒四
-颠三倒四
