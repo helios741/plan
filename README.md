@@ -26,6 +26,10 @@
 
 [jsdoc](https://github.com/jsdoc3/jsdoc)
 
+[npx 使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)
+
+[jsperf](https://jsperf.com/)
+
 
  ## 未读
  [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
