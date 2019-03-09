@@ -30,6 +30,7 @@
 
 [jsperf](https://jsperf.com/)
 
+[http://es6katas.org/](http://es6katas.org/)
 
  ## 未读
  [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
