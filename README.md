@@ -39,9 +39,6 @@
  
  [基于类 vs 基于原型的语言](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)
  
-dsd
-dsds
-
 ## 问题
 
 [how-do-i-install-a-previous-version-of-chrome](https://superuser.com/questions/936432/how-do-i-install-a-previous-version-of-chrome)
