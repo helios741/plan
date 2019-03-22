@@ -34,6 +34,8 @@
 
 [写es新特性的小能手](http://exploringjs.com/)
 
+[深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
+
  ## 未读
  [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
  
