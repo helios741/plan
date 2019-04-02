@@ -36,6 +36,8 @@
 
 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 
+[Raft算法动画](http://thesecretlivesofdata.com/raft/)
+
  ## 未读
  [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
  
