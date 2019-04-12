@@ -46,3 +46,9 @@
 ## 问题
 
 [how-do-i-install-a-previous-version-of-chrome](https://superuser.com/questions/936432/how-do-i-install-a-previous-version-of-chrome)
+
+
+## GO
+
+[Go语言文档](http://shouce.jb51.net/golang-doc/)
+[go介绍](https://liushuchun.gitbooks.io/golang/content/)
