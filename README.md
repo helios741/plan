@@ -4,6 +4,8 @@
 
 [语义化版本](https://semver.org/lang/zh-CN/)
 
+[如何编写无法维护的代码](https://coderlmn.github.io/frontEndCourse/unmaintainable.html)
+
 [关于package-lock.json的一切](https://codertx.github.io/2018/01/09/about-package-json/)
 
 [npm 模块安装机制简介](http://www.ruanyifeng.com/blog/2016/01/npm-install.html)
