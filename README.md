@@ -1,4 +1,5 @@
 # 待读
+[A deep dive into Kubernetes controllers](https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html)
 [Kubernetes API 与 Operator：不为人知的开发者战争（完整篇）](https://www.lijiaocn.com/%E9%A1%B9%E7%9B%AE/2019/01/08/kubernetes-api-and-operator-history.html)
 
 
