@@ -3,6 +3,15 @@
 [Kubernetes API 与 Operator：不为人知的开发者战争（完整篇）](https://www.lijiaocn.com/%E9%A1%B9%E7%9B%AE/2019/01/08/kubernetes-api-and-operator-history.html)
 
 
+# 好文
+
+## k8s存储
+
+[Kuberenetes 存储架构总体介绍](http://newto.me/k8s-storage-architecture/)
+[Kubernetes存储介绍系列 ——CSI plugin设计](http://newto.me/k8s-csi-design/)
+
+
+
 # 相关plan
 
  [2019年学习相关计划](https://github.com/helios741/plan/projects/1)
