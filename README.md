@@ -1,7 +1,13 @@
 # 待读
 [A deep dive into Kubernetes controllers](https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html)
+
 [Kubernetes API 与 Operator：不为人知的开发者战争（完整篇）](https://www.lijiaocn.com/%E9%A1%B9%E7%9B%AE/2019/01/08/kubernetes-api-and-operator-history.html)
 
+# 好的工具
+## devops
+[给 DevOps 初学者的入门指南](https://www.v2ex.com/t/309516)
+
+[当我们谈论 DevOps 时，我们在谈论什么？](https://www.v2ex.com/t/527512)
 
 # 好文
 
