@@ -3,6 +3,8 @@
 
 [Kubernetes API 与 Operator：不为人知的开发者战争（完整篇）](https://www.lijiaocn.com/%E9%A1%B9%E7%9B%AE/2019/01/08/kubernetes-api-and-operator-history.html)
 
+[DevOps实战：百度持续交付体系与最佳实践大解密！](https://dbaplus.cn/news-21-471-1.html)
+
 # 好的工具
 ## devops
 [给 DevOps 初学者的入门指南](https://www.v2ex.com/t/309516)
