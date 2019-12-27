@@ -1,22 +1,22 @@
-<mxfile host="www.draw.io" modified="2019-12-27T03:13:18.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="PXi8zYOQsnZ5yTtwsD2s" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-27T03:44:00.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="4CCKDLWWLfu2XlhNtXm-" version="12.4.3" type="github" pages="1">
   <diagram id="YDSZ40Oa2ds1ZQn46RLf" name="第 1 页">
-    <mxGraphModel dx="1106" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1005" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-1" target="UKzFMY9ASAY2GWc8jaDQ-18">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-1" target="UKzFMY9ASAY2GWc8jaDQ-18">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="720" height="320" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="480" width="720" height="280" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-2" value="启动前" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-2" value="启动前" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="720" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-3">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="270" as="targetPoint"/>
             <Array as="points">
@@ -25,81 +25,156 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-6" target="UKzFMY9ASAY2GWc8jaDQ-7">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-6" value="1. 生成csr.json&lt;br&gt;配置CN为&lt;span style=&quot;color: rgb(3 , 47 , 98) ; background-color: rgb(246 , 248 , 250) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; font-size: 13.6px&quot;&gt;system:kube-proxy&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-6" value="1. 生成csr.json&lt;br style=&quot;font-size: 14px&quot;&gt;配置CN为system:kube-proxy" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-7" target="UKzFMY9ASAY2GWc8jaDQ-9">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" target="UKzFMY9ASAY2GWc8jaDQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="280" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="230" y="280"/>
+              <mxPoint x="230" y="280"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-9" target="UKzFMY9ASAY2GWc8jaDQ-11">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-7" value="2. 通过CA的证书和私钥生成kube-proxy的私钥和证书" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="240" width="80" height="80" as="geometry"/>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-9" value="2. 通过CA的证书和私钥生成kube-proxy私钥和证书" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-9" target="UKzFMY9ASAY2GWc8jaDQ-11">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-11" target="UKzFMY9ASAY2GWc8jaDQ-13">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-9" value="3. 通过CA的证书和私钥生成kube-proxy的私钥和证书" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="80" height="80" as="geometry"/>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-11" value="3.&amp;nbsp;设置集群（set-cluster）" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-11" target="UKzFMY9ASAY2GWc8jaDQ-13">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-13" target="UKzFMY9ASAY2GWc8jaDQ-16">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-11" value="4.&amp;nbsp;设置集群（set-cluster）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="80" height="80" as="geometry"/>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-13" value="4.&amp;nbsp;添加用户(set-credentials)" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-13" target="UKzFMY9ASAY2GWc8jaDQ-16">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-13" value="5.&amp;nbsp;添加用户(set-credentials)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="240" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-16" target="UKzFMY9ASAY2GWc8jaDQ-22">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-16" target="UKzFMY9ASAY2GWc8jaDQ-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="380"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-16" value="6.&amp;nbsp;用户和集群绑定(set-context)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="680" y="240" width="80" height="80" as="geometry"/>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-16" value="5.&amp;nbsp;用户和集群绑定(set-context)" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-22" value="7. kube-proxy的配置文件中指定&lt;span style=&quot;color: rgb(3 , 47 , 98) ; background-color: rgb(246 , 248 , 250) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; font-size: 13.6px&quot;&gt;kubeconfig&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="340" width="80" height="80" as="geometry"/>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-22" target="UKzFMY9ASAY2GWc8jaDQ-60">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-20" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-22" value="6. kube-proxy的配置文件中指定&lt;span style=&quot;color: rgb(3 , 47 , 98) ; background-color: rgb(246 , 248 , 250) ; font-size: 14px&quot;&gt;kubeconfig&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-60" value="7.&amp;nbsp;设置默认上下文(use-context)" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-20" value="启动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="480" width="720" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-21" value="集群中默认给这个user，绑定了相应的权限" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-21" value="集群中默认给这个user，绑定了相应的权限" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-24" target="UKzFMY9ASAY2GWc8jaDQ-25">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-24" target="UKzFMY9ASAY2GWc8jaDQ-25">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-24" value="kube-proxy" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-24" value="kube-proxy" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="70" y="630" width="40" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-25" target="UKzFMY9ASAY2GWc8jaDQ-32">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-25" target="UKzFMY9ASAY2GWc8jaDQ-32">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-25" value="1. 通过上个阶段生成的kubeconfig和apiserver通信" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-25" value="1. 通过上个阶段生成的kubeconfig和apiserver通信" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="150" y="630" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-32" target="UKzFMY9ASAY2GWc8jaDQ-36">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-32" target="UKzFMY9ASAY2GWc8jaDQ-36">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-32" value="2. apiserver已经配置的RBAC" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-32" value="2. apiserver已经配置的RBAC" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="420" y="630" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-36" value="3. 具有对资源的操作权限" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-36" value="3. 具有对资源的操作权限" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="630" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-34" value="crb为：system:node-proxier&lt;br&gt;cr为：system:node-proxier&lt;br&gt;user为：system:kube-proxy" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-34" value="crb为：system:node-proxier&lt;br style=&quot;font-size: 14px;&quot;&gt;cr为：system:node-proxier&lt;br style=&quot;font-size: 14px;&quot;&gt;user为：system:kube-proxy" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="180" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-38" target="UKzFMY9ASAY2GWc8jaDQ-40">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="880" width="730" height="380" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1320" width="720" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-39" value="启动前" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="880" width="720" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-42" target="UKzFMY9ASAY2GWc8jaDQ-43">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-42" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1010" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-43" target="UKzFMY9ASAY2GWc8jaDQ-46">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-43" value="1. 生成token" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1010" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-46" target="UKzFMY9ASAY2GWc8jaDQ-49">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-46" value="2. 在kube-system下面创建对应的secret" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1010" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-49" target="UKzFMY9ASAY2GWc8jaDQ-52">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-49" value="3. 设置RBAC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1010" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-52" target="UKzFMY9ASAY2GWc8jaDQ-54">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-52" value="4.&amp;nbsp;设置集群（set-cluster）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1010" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-54" target="UKzFMY9ASAY2GWc8jaDQ-56">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-54" value="5.添加用户(set-credentials)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1140" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-56" target="UKzFMY9ASAY2GWc8jaDQ-58">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-56" value="6.&amp;nbsp;上下文参数：用户和集群绑定(set-context)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1140" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-58" value="7.设置默认上下文(use-context)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1140" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-45" value="&lt;a href=&quot;https://kubernetes.io/docs/reference/access-authn-authz/bootstrap-tokens/#token-format&quot;&gt;token format&lt;/a&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="940" width="120" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-48" value="&lt;a href=&quot;https://kubernetes.io/docs/reference/access-authn-authz/bootstrap-tokens/#bootstrap-token-secret-format&quot;&gt;Bootstrap Token Secret Format&lt;/a&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="940" width="120" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-51" value="&lt;div&gt;system:bootstrappers组申请CSR和自动approve&lt;/div&gt;&lt;div&gt;system:nodes组更新证书S/C两个&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="930" width="230" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-62" value="启动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1320" width="720" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
