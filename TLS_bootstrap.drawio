@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T03:44:00.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="4CCKDLWWLfu2XlhNtXm-" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-27T03:58:38.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="C36Z-MV5wYMESq1TkNtp" version="12.4.3" type="github" pages="1">
   <diagram id="YDSZ40Oa2ds1ZQn46RLf" name="第 1 页">
     <mxGraphModel dx="1005" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,14 +107,11 @@
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-34" value="crb为：system:node-proxier&lt;br style=&quot;font-size: 14px;&quot;&gt;cr为：system:node-proxier&lt;br style=&quot;font-size: 14px;&quot;&gt;user为：system:kube-proxy" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="180" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-38" target="UKzFMY9ASAY2GWc8jaDQ-40">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="880" width="730" height="380" as="geometry"/>
         </mxCell>
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1320" width="720" height="250" as="geometry"/>
+          <mxGeometry x="55" y="1320" width="730" height="460" as="geometry"/>
         </mxCell>
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-39" value="启动前" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="880" width="720" height="50" as="geometry"/>
@@ -152,7 +149,7 @@
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-54" target="UKzFMY9ASAY2GWc8jaDQ-56">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-54" value="5.添加用户(set-credentials)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-54" value="5.根据token添加用户(set-credentials)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="1140" width="90" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-56" target="UKzFMY9ASAY2GWc8jaDQ-58">
@@ -161,8 +158,14 @@
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-56" value="6.&amp;nbsp;上下文参数：用户和集群绑定(set-context)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="1140" width="90" height="90" as="geometry"/>
         </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-58" target="UKzFMY9ASAY2GWc8jaDQ-67">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-58" value="7.设置默认上下文(use-context)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="310" y="1140" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-67" value="8. kubelet启动参数中写456步骤生成的bootstrap.config" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1140" width="90" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-45" value="&lt;a href=&quot;https://kubernetes.io/docs/reference/access-authn-authz/bootstrap-tokens/#token-format&quot;&gt;token format&lt;/a&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="110" y="940" width="120" height="70" as="geometry"/>
@@ -174,7 +177,53 @@
           <mxGeometry x="420" y="930" width="230" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="UKzFMY9ASAY2GWc8jaDQ-62" value="启动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1320" width="720" height="50" as="geometry"/>
+          <mxGeometry x="55" y="1320" width="725" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1410" width="140" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1410" width="140" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1410" width="140" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-72" value="kubelet" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1410" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-73" value="api-server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1410" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-74" value="controller-manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1410" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-76" value="" style="endArrow=classic;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-72" target="UKzFMY9ASAY2GWc8jaDQ-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1510" as="sourcePoint"/>
+            <mxPoint x="290" y="1460" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-77" value="1. bootstrap.config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" connectable="0" parent="UKzFMY9ASAY2GWc8jaDQ-76">
+          <mxGeometry x="-0.3993" y="-3" relative="1" as="geometry">
+            <mxPoint x="22.75" y="4.29" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-78" value="创建CSR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1520" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-80" value="" style="endArrow=classic;html=1;fontSize=14;entryX=1.021;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.012;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UKzFMY9ASAY2GWc8jaDQ-71" target="UKzFMY9ASAY2GWc8jaDQ-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1560" as="sourcePoint"/>
+            <mxPoint x="550" y="1510" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-81" value="2. list到了有CSR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" connectable="0" parent="UKzFMY9ASAY2GWc8jaDQ-80">
+          <mxGeometry x="0.2526" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UKzFMY9ASAY2GWc8jaDQ-82" value="这个有自动approve的权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1470" width="120" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
