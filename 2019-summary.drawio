@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-05T09:26:18.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zmT_oZ5_e7Q-c6VZbRVI" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T09:36:24.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="b_IxLPUm8EIj9OK3Tz-H" version="12.4.8" type="github">
   <diagram id="yfRqVsXLEQVJtWVrE4aE" name="第 1 页">
-    <mxGraphModel dx="1933" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1991" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -16,7 +16,7 @@
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-1" target="6dMx5kK0GIaUFnze7Xp3-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="6dMx5kK0GIaUFnze7Xp3-1" value="2019的人生是多维度，平衡发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-1" value="2019的人生是多维度，欠平衡发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="270" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-2" target="6dMx5kK0GIaUFnze7Xp3-14">
@@ -70,7 +70,7 @@
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-17" value="上班不专心，工作上的事情总是点到为止，干完就完，尽量多的时间都在自己看书上。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="80" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="6dMx5kK0GIaUFnze7Xp3-22" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;在前端方向上写了三篇原创一篇翻译。在devops上发变了三篇原创四篇翻译。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-22" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;在前端方向上写了三篇原创一篇翻译。在devops上发变了三篇原创四篇翻译。&lt;br&gt;github基本左右每日一绿&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="80" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-23" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;开始学习游泳，自认为体育强将又被教练喷。&lt;br&gt;&lt;br&gt;开始学习心理课，知道了“道理都懂”其实含义就是听不进去话&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-31" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;从备战业余搏击比赛看到意识到了自己心态的变化&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="80" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="6dMx5kK0GIaUFnze7Xp3-34" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;放弃了对晓兵两年的暗恋，删了她的所有联系方式，感到了轻松&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-34" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;放弃了对晓兵两年的暗恋，删了她的所有联系方式，感到了轻松。现在竟然对已婚同时有点感觉。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="80" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-35" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;父母用我攒了一年半的十几万买了家里的房，没有考虑我，心寒。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-36" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;现在明显的感觉消费等级提升了，从以前中饭十几块，道心在20+。从学生花几百都心疼，现在花两千学个游泳都不眨眼&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="360" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-40" value="2020展望：把握轻重，走出舒适区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="380" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
