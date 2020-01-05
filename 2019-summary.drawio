@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-05T09:36:24.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="b_IxLPUm8EIj9OK3Tz-H" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T11:21:16.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="tyw421oltGuxde_cTuGE" version="12.4.8" type="github">
   <diagram id="yfRqVsXLEQVJtWVrE4aE" name="第 1 页">
-    <mxGraphModel dx="1991" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1564" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -16,7 +16,7 @@
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-1" target="6dMx5kK0GIaUFnze7Xp3-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="6dMx5kK0GIaUFnze7Xp3-1" value="2019的人生是多维度，欠平衡发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-1" value="2019的人生是多维度，欠平衡发展、习惯孤独" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="270" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-2" target="6dMx5kK0GIaUFnze7Xp3-14">
@@ -82,7 +82,7 @@
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-31" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;从备战业余搏击比赛看到意识到了自己心态的变化&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="80" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="6dMx5kK0GIaUFnze7Xp3-34" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;放弃了对晓兵两年的暗恋，删了她的所有联系方式，感到了轻松。现在竟然对已婚同时有点感觉。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-34" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;放弃了对晓兵两年的暗恋，删了她的所有联系方式，感到了轻松。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="80" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-35" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;父母用我攒了一年半的十几万买了家里的房，没有考虑我，心寒。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,8 +91,98 @@
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-36" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;现在明显的感觉消费等级提升了，从以前中饭十几块，道心在20+。从学生花几百都心疼，现在花两千学个游泳都不眨眼&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="360" width="80" height="190" as="geometry"/>
         </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-40" target="6dMx5kK0GIaUFnze7Xp3-42">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.578;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-40" target="6dMx5kK0GIaUFnze7Xp3-57">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-40" target="6dMx5kK0GIaUFnze7Xp3-62">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="6dMx5kK0GIaUFnze7Xp3-40" value="2020展望：把握轻重，走出舒适区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="700" width="380" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-42" target="6dMx5kK0GIaUFnze7Xp3-46">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-42" target="6dMx5kK0GIaUFnze7Xp3-49">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-42" target="6dMx5kK0GIaUFnze7Xp3-51">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-42" value="学习：重心不变，有效分散" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="830" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-43" value="在云计算或者基础架构领域有更深的扩展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-44" value="在得到上学习新的写作技巧。并运用在自己的技术文章和各种总结上。&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-45" value="用心耕耘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="930" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-46" value="重心不变" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="930" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-47" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;学习投资、游泳、心理学等，全方面提升自己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-49" value="有效分散" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="930" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-50" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;专心学另一项技能，可以是英语，也可以是阅读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-51" value="有效分散" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-57" target="6dMx5kK0GIaUFnze7Xp3-45">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-57" target="6dMx5kK0GIaUFnze7Xp3-59">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-57" value="工作：用心耕耘、人各有志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="830" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-58" value="跳槽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-59" value="人各有志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="930" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-62" target="6dMx5kK0GIaUFnze7Xp3-64">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-62" target="6dMx5kK0GIaUFnze7Xp3-66">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dMx5kK0GIaUFnze7Xp3-62" target="6dMx5kK0GIaUFnze7Xp3-68">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-62" value="生活：走出舒适区、憧憬未来、在路上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="830" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-63" value="有机会的参加各种有“陌生人”的聚会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-64" value="走出舒适区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="930" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-65" value="争取找到自己心中另一半的特性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-66" value="憧憬未来" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="930" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-67" value="自己或者和陌生人出去旅游一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="930" width="80" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6dMx5kK0GIaUFnze7Xp3-68" value="在路上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="930" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
