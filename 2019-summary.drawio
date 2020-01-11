@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-11T10:54:08.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="LqdUSjbxDUHJIoMEGg8D" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-11T11:34:21.628Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="s4ZEV7JnlFQNIZKSo9iO" version="12.5.1" type="github">
   <diagram id="yfRqVsXLEQVJtWVrE4aE" name="第 1 页">
-    <mxGraphModel dx="1506" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1285" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -209,7 +209,7 @@
             <mxPoint x="730" y="1440" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kKdN2PcBnw4xSmhmogrB-1" value="工作--用心耕耘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-1" value="工作--用心耕耘&lt;br&gt;学习--重心不变" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="1300" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="kKdN2PcBnw4xSmhmogrB-25" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;学习一个好的项目的品质&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-2" target="kKdN2PcBnw4xSmhmogrB-16">
@@ -378,6 +378,134 @@
             <mxPoint x="820.5" y="1660" as="sourcePoint"/>
             <mxPoint x="820" y="1620" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-60" target="kKdN2PcBnw4xSmhmogrB-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2080"/>
+              <mxPoint x="90" y="2080"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-60" target="kKdN2PcBnw4xSmhmogrB-63">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-60" target="kKdN2PcBnw4xSmhmogrB-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2080"/>
+              <mxPoint x="250" y="2080"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-60" target="kKdN2PcBnw4xSmhmogrB-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2080"/>
+              <mxPoint x="730" y="2080"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-60" target="kKdN2PcBnw4xSmhmogrB-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2080"/>
+              <mxPoint x="570" y="2080"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-60" value="学习--有效分散" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2000" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-88" value="钱生钱" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-61" target="kKdN2PcBnw4xSmhmogrB-72">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-61" value="学习投资" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-89" value="求生技" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-62" target="kKdN2PcBnw4xSmhmogrB-76">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-62" value="学会游泳" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-90" value="控制" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-63" target="kKdN2PcBnw4xSmhmogrB-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2200"/>
+              <mxPoint x="410" y="2200"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-63" value="学习心理学" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-91" value="穿裤子" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-64" target="kKdN2PcBnw4xSmhmogrB-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="2210"/>
+              <mxPoint x="570" y="2210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-64" value="大腿50cm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-92" value="不想邋遢" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-65" target="kKdN2PcBnw4xSmhmogrB-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="2210"/>
+              <mxPoint x="730" y="2210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-65" value="变干净" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-72" value="1. 看课程，理解什么是投资" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-73" value="2. 学会使用投资软件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-74" value="3. 用每个月的50%工资投资" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-75" value="4. 每周150字的总结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-76" value="1. 2、3月份每周三次游泳" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-77" value="2. 学习自由泳" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-78" value="3. 考得深水证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-80" value="1. 理论学习+实践" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-81" value="2. 控制自己的情绪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-82" value="1. 每周至少四次运动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-83" value="2. 明确运动的步骤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-84" value="3. 指定专门瘦腿计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-85" value="1. 学会穿搭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-86" value="2. 弄清楚为什么胡子刮不干净" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-87" value="3. 运动完敷补水面膜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2410" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
