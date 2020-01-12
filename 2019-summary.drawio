@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-12T12:23:23.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="BX0BfGydKYyEGOz7ErKG" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-12T12:49:23.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="qoWda4Fxaiyaf75hPkIo" version="12.5.1" type="github">
   <diagram id="yfRqVsXLEQVJtWVrE4aE" name="第 1 页">
     <mxGraphModel dx="1285" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -822,6 +822,55 @@
             <mxPoint x="149.60000000000008" y="3979.6" as="sourcePoint"/>
             <mxPoint x="149.60000000000008" y="4009.6" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-176" target="kKdN2PcBnw4xSmhmogrB-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="4300"/>
+              <mxPoint x="160" y="4300"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-176" target="kKdN2PcBnw4xSmhmogrB-182">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-176" target="kKdN2PcBnw4xSmhmogrB-178">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="4300"/>
+              <mxPoint x="560" y="4300"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-176" value="生活" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-177" target="kKdN2PcBnw4xSmhmogrB-186">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-177" value="租房被骗" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="4320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-178" target="kKdN2PcBnw4xSmhmogrB-189">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-178" value="对搏击的热情降低" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="4320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-182" value="羽毛球比赛没信心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-186" value="通过法律解决" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="4440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=14;dashed=1;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-189" target="kKdN2PcBnw4xSmhmogrB-190">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-189" value="搏击比赛的心态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="4440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-190" value="对打拳好像失去兴趣" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="4540" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
