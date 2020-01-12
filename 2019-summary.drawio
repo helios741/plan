@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-11T11:45:46.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2FTOSoirzJm4KrxJqgtG" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-12T11:29:35.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1LUXijholVGaqpXVhhb2" version="12.5.1" type="github">
   <diagram id="yfRqVsXLEQVJtWVrE4aE" name="第 1 页">
-    <mxGraphModel dx="1506" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1285" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -605,6 +605,73 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="2407" as="sourcePoint"/>
             <mxPoint x="889.5999999999999" y="2380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-114" target="kKdN2PcBnw4xSmhmogrB-116">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-114" target="kKdN2PcBnw4xSmhmogrB-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="2720"/>
+              <mxPoint x="130" y="2720"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-114" target="kKdN2PcBnw4xSmhmogrB-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="2720"/>
+              <mxPoint x="590" y="2720"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-114" value="关于生活" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2640" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-123" value="&lt;font color=&quot;#ff3333&quot;&gt;结交不同领域和不认识的朋友&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-115" target="kKdN2PcBnw4xSmhmogrB-121">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-115" value="走出舒适区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2760" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-126" value="&lt;font color=&quot;#ff3333&quot;&gt;遇见未来&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-116" target="kKdN2PcBnw4xSmhmogrB-124">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-116" value="憧憬未来" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2760" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-128" value="&lt;font color=&quot;#ff3333&quot;&gt;身体在路上&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-117" target="kKdN2PcBnw4xSmhmogrB-127">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-117" value="去旅游" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2760" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-121" value="1. 和不同职业的人交流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2892" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-122" value="2. 和陌生人交流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-124" value="1. 主动去认识" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2892" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-125" value="2. 有感觉了就主动出击" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-127" value="1. 去繁华的上海还是山水的桂林？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2892" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-129" value="" style="endArrow=none;html=1;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="kKdN2PcBnw4xSmhmogrB-122" target="kKdN2PcBnw4xSmhmogrB-121">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="3040" as="sourcePoint"/>
+            <mxPoint x="-90" y="2990" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKdN2PcBnw4xSmhmogrB-130" value="" style="endArrow=none;html=1;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="2990" as="sourcePoint"/>
+            <mxPoint x="359.5" y="2952" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
