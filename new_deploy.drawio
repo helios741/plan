@@ -1,1 +1,139 @@
-<mxfile host="www.draw.io" modified="2020-02-27T01:24:50.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.7.8" etag="pX3OMme3rs0omZ0-IUua" type="github"><diagram id="KUAauQ6PjEWAOQ8t4Hyr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-28T08:34:36.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="BDakE2ODrF577GOUDF5L" version="12.7.8" type="github">
+  <diagram id="KUAauQ6PjEWAOQ8t4Hyr" name="第 1 页">
+    <mxGraphModel dx="932" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-1" target="yQlZqIQrhWvFe7Ks3M3d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-1" value="得参数" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-2" target="yQlZqIQrhWvFe7Ks3M3d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-2" value="申请虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-4" target="yQlZqIQrhWvFe7Ks3M3d-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-4" value="初始化虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-6" target="yQlZqIQrhWvFe7Ks3M3d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-6" value="管理平台机器上拉部署代码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-10" target="yQlZqIQrhWvFe7Ks3M3d-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-10" value="生成部署配置文件（包括hadoop）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-12" target="yQlZqIQrhWvFe7Ks3M3d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-12" value="拉先知包到管理机器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-14" value="部署" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-16" target="yQlZqIQrhWvFe7Ks3M3d-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-16" value="得参数" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-17" target="yQlZqIQrhWvFe7Ks3M3d-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-17" value="申请虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-19" target="yQlZqIQrhWvFe7Ks3M3d-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-19" value="初始化虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-22" target="yQlZqIQrhWvFe7Ks3M3d-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-22" value="选一台机器作为控制机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-24" target="yQlZqIQrhWvFe7Ks3M3d-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-24" value="在控制机上拉部署代码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-26" target="yQlZqIQrhWvFe7Ks3M3d-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-26" value="在本地生成部署文件，拷贝到控制机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-28" target="yQlZqIQrhWvFe7Ks3M3d-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-28" value="在控制机上拉先知包" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-30" value="在控制机上执行部署" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-21" value="额外安装pip，ansible等工具" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="445" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-32" target="yQlZqIQrhWvFe7Ks3M3d-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-32" value="得参数" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-33" target="yQlZqIQrhWvFe7Ks3M3d-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-33" value="申请虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-35" target="yQlZqIQrhWvFe7Ks3M3d-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-35" value="初始化虚拟机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-38" target="yQlZqIQrhWvFe7Ks3M3d-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-38" value="选一台机器作为控制机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-40" target="yQlZqIQrhWvFe7Ks3M3d-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-40" value="在控制机上拉对应先知包并解压" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="yQlZqIQrhWvFe7Ks3M3d-42" target="yQlZqIQrhWvFe7Ks3M3d-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-42" value="&lt;span style=&quot;white-space: normal&quot;&gt;在本地生成部署文件，拷贝到控制机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-44" value="在控制机上执行部署" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQlZqIQrhWvFe7Ks3M3d-37" value="额外安装pip，ansible等工具" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
