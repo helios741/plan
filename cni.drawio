@@ -1,1 +1,60 @@
-<mxfile host="www.draw.io" modified="2020-03-03T02:15:21.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="w-iBVzc7oURKcB184u4P" version="12.7.9" type="github"><diagram id="eBQEhU2m4NLdrxS08Ehv" name="第 1 页">5ZhNc5swEIZ/zc60B2dAYBBHwDjN9GsmOfRMjWJoMKJY+KO/vishjAlOxj00OInHg8WrZSSefSUWgxWudtdVXKZfecJyIEayA2sGhLiOhUcp7BvBpnYjLKssaSSzE+6yP0yLhlbrLGHrXqDgPBdZ2RcXvCjYQvS0uKr4th92z/P+qGW8ZAPhbhHnQ/VHloi0USlxO/0Ty5ZpO7LpeE3PKm6D9Z2s0zjh2yPJisAKK85F01rtQpZLdi2X5rr5E72HiVWsEOdcUJabz2J3PTGiaVBf39/eht+/THR2NnFe6xvWkxX7lgBLEIg+5ZVI+ZIXcR51alDxukiYHMbAsy7mC+cliiaKv5gQe53duBYcpVSsct3bjCkHevLetLTmdbVgz9xQ65G4WjLxTBw5ZACdy/iKiWqP11Usj0W26c8j1h5aHuI6zNjQpP+Bujmg/lD/ZDlO+DH8Ptptmgl2V8aKwBbX2ymMG1YJtnse5PDG9QWtWfVqPSzDbed9s41Jj3zvGP8J1fStGZScaVB7TIOSAfXw9uZDwhcPrJqs02z1cXynXpxVyZDaK/eqfaZXTeN0ql7GrPYJ7E6O8w3WZVz0+Du/a/m4De55ISZrRdDHANO6svBT7roIbC3lL/oeoilQH3wDIgrBTH7JnIkFHhdFhseCiasEIhsCCjSAyAXPB6xzIgfoHDyiugIInHZeeE0ztWaM0deSfXFryXx7hYlx7mIatzRx3y94Z1Tw3vsFT0cFbwzByx3fBerIhm9jO/x2c2I7l2FzoER2eVMIjEHGxt7JrenYOzkZvuy8dl/TM31NRi2L2mn2fI3ODVUl4wE1lJdd6WXPO23wse38uMi/ADuf2i2Qmwe+K+tD3wQayo0BNwO9f0QQeLLhYQw9Kiaxgb1TlYIZeGabi1BtJxbQmUrETCqjJ+LS8mA6gzyQKzxX9bqyL42Upz1JWaJUlDEZTZ3uz06U9bJrLlMoM2qCPx+d+9Tug7e90cEP33LNA3iq3B4dwT68CzVvR4Y2uVTwARtJxnKNEKCWfpx6VCXNle2x8Vvmy+HH0+7PYNV39I+6Ff0F</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-03T02:16:44.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="rFD03LoebflwAjNhY8l9" version="12.7.9" type="github">
+  <diagram id="eBQEhU2m4NLdrxS08Ehv" name="第 1 页">
+    <mxGraphModel dx="763" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ppvKtxG-0E5BuGfRRCOL-1" target="ppvKtxG-0E5BuGfRRCOL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-1" value="kubelet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ppvKtxG-0E5BuGfRRCOL-2" target="ppvKtxG-0E5BuGfRRCOL-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-2" value="CRI(docker-shim)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ppvKtxG-0E5BuGfRRCOL-4" target="ppvKtxG-0E5BuGfRRCOL-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-4" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;CRI加载/etc/cni/net.d下的插件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ppvKtxG-0E5BuGfRRCOL-10" target="ppvKtxG-0E5BuGfRRCOL-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ppvKtxG-0E5BuGfRRCOL-10" target="ppvKtxG-0E5BuGfRRCOL-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75yFXMIhDSZuPl3ZcAFx-1" value="包括两部分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ppvKtxG-0E5BuGfRRCOL-17">
+          <mxGeometry x="-0.8173" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ppvKtxG-0E5BuGfRRCOL-10" target="ppvKtxG-0E5BuGfRRCOL-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-10" value="准备CNI插件参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ppvKtxG-0E5BuGfRRCOL-18" target="ppvKtxG-0E5BuGfRRCOL-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-18" value="传递给CNI插件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-20" value="执行将容器加入网络操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-16" value="2. CRI从CNI配置中加载信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppvKtxG-0E5BuGfRRCOL-12" value="1. CRI设置的一组环境变量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
