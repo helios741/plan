@@ -1,1 +1,126 @@
-<mxfile host="www.draw.io" modified="2020-06-08T01:38:34.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="13.1.12" etag="OWIhZrcqUcDa2LNNc-dr" type="github"><diagram id="g7SANS_dqpfxIYA6omLV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-06-08T02:10:57.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="-lN7J-FdLq6q99AD2X1q" version="13.1.12" type="github">
+  <diagram id="g7SANS_dqpfxIYA6omLV" name="第 1 页">
+    <mxGraphModel dx="885" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fOpxuhup4ot545M9HLos-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-4" target="fOpxuhup4ot545M9HLos-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-4" value="1. 选择版本、产品、出包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-5" target="fOpxuhup4ot545M9HLos-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-5" value="2. 生成yaml,包含模块的env、pkg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-7" target="fOpxuhup4ot545M9HLos-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-7" value="3. 通过krobelus生成完成yml(versiom、template)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-9" target="fOpxuhup4ot545M9HLos-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-12" value="反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fOpxuhup4ot545M9HLos-11">
+          <mxGeometry x="-0.0745" y="-5" relative="1" as="geometry">
+            <mxPoint x="-5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-9" value="4. 通过prophet_cicd出包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="fOpxuhup4ot545M9HLos-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="301" y="695" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="611" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-18" value="1. 选择版本、产品、出包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-20" target="fOpxuhup4ot545M9HLos-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="834" y="1024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-20" value="2.1. 生成yaml,包含模块的env、pkg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="774" y="692" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="fOpxuhup4ot545M9HLos-22" target="fOpxuhup4ot545M9HLos-25" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-22" value="3. 通过krobelus生成完成yml(versiom、template)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="994" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="fOpxuhup4ot545M9HLos-25" target="fOpxuhup4ot545M9HLos-16" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-24" value="反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fOpxuhup4ot545M9HLos-23">
+          <mxGeometry x="-0.0745" y="-5" relative="1" as="geometry">
+            <mxPoint x="-5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-25" value="4. 通过prophet_cicd出包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="256" y="853" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="774" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-32" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fOpxuhup4ot545M9HLos-31">
+          <mxGeometry x="-0.2528" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-36" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fOpxuhup4ot545M9HLos-34">
+          <mxGeometry x="-0.3303" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-29" value="锁定" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="614" y="685" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fOpxuhup4ot545M9HLos-35" target="fOpxuhup4ot545M9HLos-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="654" y="1024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-35" value="2.2&amp;nbsp;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;生成yaml,包含模块的env、pkg、version&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="594" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpxuhup4ot545M9HLos-41" value="判断是否有version，如果有就用传进来的" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1054" width="121" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
