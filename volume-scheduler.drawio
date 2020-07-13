@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-07-13T15:03:52.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_rBoxwwlGpPWRpff5MYw" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-13T15:08:24.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="uJ1auPnoETERppZo6oaF" version="13.4.2" type="github">
   <diagram id="DxyX8KjCjXub0EamE06P" name="Page-1">
-    <mxGraphModel dx="1906" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1685" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,34 +22,30 @@
         <mxCell id="3KhBB-UzeVjgN0t8tx5o-4" value="VolumeZone:volume是否满足区域要求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3KhBB-UzeVjgN0t8tx5o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3KhBB-UzeVjgN0t8tx5o-6" target="3KhBB-UzeVjgN0t8tx5o-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3KhBB-UzeVjgN0t8tx5o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3KhBB-UzeVjgN0t8tx5o-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="3KhBB-UzeVjgN0t8tx5o-6" value="NoDiskConlict: 检查是够已经挂载到节点上" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3KhBB-UzeVjgN0t8tx5o-6" value="NoDiskConlict: 检查是否能够挂载到节点上" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3KhBB-UzeVjgN0t8tx5o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3KhBB-UzeVjgN0t8tx5o-8" target="3KhBB-UzeVjgN0t8tx5o-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3KhBB-UzeVjgN0t8tx5o-8" value="NoDiskConlict: 检查是够已经挂载到节点上" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3KhBB-UzeVjgN0t8tx5o-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3KhBB-UzeVjgN0t8tx5o-10" target="3KhBB-UzeVjgN0t8tx5o-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3KhBB-UzeVjgN0t8tx5o-10" value="NodeVolumeLimits：节点上挂载的volume小于阈值会被选中" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="557" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3KhBB-UzeVjgN0t8tx5o-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3KhBB-UzeVjgN0t8tx5o-12" edge="1">
+        <mxCell id="ZTHc7jU5PQcWYCwYmFnr-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3KhBB-UzeVjgN0t8tx5o-12" target="3KhBB-UzeVjgN0t8tx5o-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="430" as="targetPoint" />
+            <mxPoint x="293" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3KhBB-UzeVjgN0t8tx5o-12" value="VolumeBinding：检查pv的nodeAffinity" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="373" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3KhBB-UzeVjgN0t8tx5o-16" value="scheduler阶段结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3KhBB-UzeVjgN0t8tx5o-24" value="1、PV和PVC bind" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3KhBB-UzeVjgN0t8tx5o-21" target="3KhBB-UzeVjgN0t8tx5o-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
