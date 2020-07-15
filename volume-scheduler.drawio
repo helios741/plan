@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-07-15T13:08:41.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="OLYhdecQOba6q00Rw0VC" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-15T14:35:24.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="U1m0vI8TcactznGoKGp4" version="13.4.2" type="github">
   <diagram id="DxyX8KjCjXub0EamE06P" name="Page-1">
-    <mxGraphModel dx="2439" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1906" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,11 +157,50 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3KhBB-UzeVjgN0t8tx5o-51" value="claimRef存在？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3KhBB-UzeVjgN0t8tx5o-51" value="claimRef空？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="233" y="1423" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3KhBB-UzeVjgN0t8tx5o-55" value="claimRef存在？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3KhBB-UzeVjgN0t8tx5o-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="1583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-7" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZ-Ab3f9yQDl7B7Aqt0U-2">
+          <mxGeometry x="-0.1885" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3KhBB-UzeVjgN0t8tx5o-55" target="NZ-Ab3f9yQDl7B7Aqt0U-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-6" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZ-Ab3f9yQDl7B7Aqt0U-5">
+          <mxGeometry x="0.0417" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KhBB-UzeVjgN0t8tx5o-55" value="引用的PVC存在" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="393" y="1423" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZ-Ab3f9yQDl7B7Aqt0U-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="1583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZ-Ab3f9yQDl7B7Aqt0U-9">
+          <mxGeometry x="-0.2135" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NZ-Ab3f9yQDl7B7Aqt0U-4" target="NZ-Ab3f9yQDl7B7Aqt0U-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-14" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZ-Ab3f9yQDl7B7Aqt0U-12">
+          <mxGeometry x="0.0049" y="-36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-4" value="ReclaimPolicy为Delete？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="553" y="1423" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3KhBB-UzeVjgN0t8tx5o-58" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-size: 14px ; text-align: left ; white-space: normal&quot;&gt;Available&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="213" y="1583" width="120" height="60" as="geometry" />
@@ -421,6 +460,15 @@
         </mxCell>
         <mxCell id="ZTHc7jU5PQcWYCwYmFnr-56" value="node" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="584" y="3584" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-3" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-size: 14px ; text-align: left ; white-space: normal&quot;&gt;Bound&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="1583" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-10" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-size: 14px ; text-align: left ; white-space: normal&quot;&gt;删除PV&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="1583" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZ-Ab3f9yQDl7B7Aqt0U-11" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-size: 14px ; text-align: left ; white-space: normal&quot;&gt;available&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
