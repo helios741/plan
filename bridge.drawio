@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T05:22:28.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="q6CxDdgYe6zNk_ywrylj" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T10:58:16.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Q12l4ozjB4630YZlbvw2" version="13.7.3" type="github">
   <diagram id="Vr5jvqpNPJQWCU1TZzJC" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,6 +335,53 @@
         </mxCell>
         <mxCell id="5zI7_Pe21EK5ix0b4mOg-152" value="baidu" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="2281" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-154" value="apiserver" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="48" y="2491" width="656" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-159" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.303;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5zI7_Pe21EK5ix0b4mOg-155" target="5zI7_Pe21EK5ix0b4mOg-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-160" value="1.watch到需要启动的POD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5zI7_Pe21EK5ix0b4mOg-159">
+          <mxGeometry x="-0.0163" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5zI7_Pe21EK5ix0b4mOg-155" target="5zI7_Pe21EK5ix0b4mOg-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-163" value="2. 创建pause容器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5zI7_Pe21EK5ix0b4mOg-162">
+          <mxGeometry x="-0.1863" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5zI7_Pe21EK5ix0b4mOg-155" target="5zI7_Pe21EK5ix0b4mOg-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-166" value="3.&amp;nbsp; CNI ADD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5zI7_Pe21EK5ix0b4mOg-165">
+          <mxGeometry x="-0.0774" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-155" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="2620" width="120" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-156" value="kubelet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="2628" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-161" value="container1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="2643" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-167" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5zI7_Pe21EK5ix0b4mOg-164" target="5zI7_Pe21EK5ix0b4mOg-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-168" value="4. 配置容器网络" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5zI7_Pe21EK5ix0b4mOg-167">
+          <mxGeometry x="0.0385" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5zI7_Pe21EK5ix0b4mOg-164" value="CNI插件" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="2755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
